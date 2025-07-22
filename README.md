@@ -1,5 +1,5 @@
+*🚀 Projeto - Bootcamp Santander 2025: Back-End com Python*
 
-🚀 Projeto - Bootcamp Santander 2025: Back-End com Python
 Este repositório contém os projetos e atividades desenvolvidos durante minha participação no Bootcamp Santander 2025 - Back-End com Python, promovido pela DIO em parceria com o Santander.
 
 📌 Sobre o Bootcamp
@@ -21,9 +21,9 @@ Project Challenges: Projetos práticos para compor o portfólio.
 Ranking: Sistema de pontuação com base em interações, quizzes e qualidade do código.
 
 📁 Estrutura do Repositório
-├── desafios/        # Códigos dos desafios realizados
-├── projeto/         # Projeto final desenvolvido durante o bootcamp
-└── README.md        # Documentação do repositório
+- desafios/        # Códigos dos desafios realizado
+- projeto/         # Projeto final desenvolvido durante o bootcamp
+- README.md        # Documentação do repositório
 
 🎯 Objetivo
 Concluir todas as atividades e desafios propostos para conquistar o certificado oficial do bootcamp e fortalecer minha carreira como desenvolvedora back-end com Python.
